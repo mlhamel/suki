@@ -1,0 +1,10 @@
+[package]
+name = "suki"
+version = "0.1.0"
+authors = ["Mathieu Leduc-Hamel <mathieu.leduchamel@shopify.com>"]
+
+[dependencies]
+iron = "*"
+rustc-serialize = "*"
+router = "*"
+hyper = "*"
